@@ -29,3 +29,4 @@ Winners of the contest will get prizes in Toncoin, the cryptocurrency native to 
 Each TON ecosystem project team will examine and double-check all the issues in its repository. Then each team will choose the top five bug reports. Each author of these bugs will get up to $500, based on the teams’ evaluation.
 
 The top participants will get a chance to join the core TON Foundation team as manual QA Engineers.
+give me my money 

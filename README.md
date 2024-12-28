@@ -1,4 +1,4 @@
-**About the task**
+UQCIFYlCtiG4DCTaE6T8NFNJaSAMb3Ngev26Dtto20b43snK**About the task**
 UQCv4A87SOvvrgjm8RoMBaD3cpq5aPBLA45RkkZiM0QQp3rl
 The goal of the contest is to use manual testing to find significant bugs in products in the TON ecosystem.
 

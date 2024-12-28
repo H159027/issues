@@ -1,5 +1,5 @@
 **About the task**
-
+UQCv4A87SOvvrgjm8RoMBaD3cpq5aPBLA45RkkZiM0QQp3rl
 The goal of the contest is to use manual testing to find significant bugs in products in the TON ecosystem.
 
 By significant bugs we mean UX inconsistencies, logical contradictions, and functional shortcomings. For example, if the application freezes, the action did not take place, incorrect information is displayed, the UI layout is so broken that it is impossible to use some function, etc. In other words, bugs that do not allow using some functionality of the application, or incorrect operation of the application (e.g. want to send 1 TON, but 5 TON was sent), or incorrect display of information (e.g. 1 TON sent, 0.99 TON is shown or you have NFT but it doesn't show up).
